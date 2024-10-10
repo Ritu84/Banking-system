@@ -156,7 +156,7 @@ Monitors transactions for suspicious activity, including:
 1. **Setup:**
    - Ensure you have a C++ compiler installed (e.g., g++, clang).
    - Create a new directory for the project and navigate to it.
-   - Copy the provided code into a new file named `banking_system.cpp`.
+   - Copy the provided code into a new file named `bank.cpp`.
 
 2. **Compile:**
    Open a terminal in the project directory and run:
