@@ -161,4 +161,4 @@ Monitors transactions for suspicious activity, including:
 2. **Compile:**
    Open a terminal in the project directory and run:
    ```bash
-   g++ -o banking_system bank.cpp
+   g++ -o bank bank.cpp
